@@ -14,3 +14,11 @@
 </details>
 
 <img alt="streak stats" src="https://github-readme-streak-stats.herokuapp.com/?user=Davphla&theme=highcontrast" />
+
+# My languages
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Davphla&theme=tokyonight)
+
+# My Stats
+
+[![Les Stats GitHub de Just1truc](https://github-readme-stats.vercel.app/api?username=Davphla&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
