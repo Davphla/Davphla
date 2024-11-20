@@ -8,10 +8,3 @@ My current one is typing really fast and language learning.
 I also played a lot of Geometry Dash in the past.
 
 I'm open for contributing ! 🐟🐙
-
-
-# Contact
-
-- Linkedin :
-- Malt : 
-- Email :# Minilibc
