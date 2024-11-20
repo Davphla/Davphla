@@ -10,3 +10,8 @@ I also played a lot of Geometry Dash in the past.
 I'm open for contributing ! 🐟🐙
 
 
+# Contact
+
+- Linkedin :
+- Malt : 
+- Email :# Minilibc
